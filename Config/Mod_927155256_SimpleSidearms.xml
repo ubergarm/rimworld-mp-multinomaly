@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PeteTimesSix.SimpleSidearms.SimpleSidearms_Settings">
+		<SettingsEverOpened>True</SettingsEverOpened>
+		<ActivePreset>Basic</ActivePreset>
+		<RangedCombatAutoSwitchMaxWarmup>0.75</RangedCombatAutoSwitchMaxWarmup>
+		<SpeedSelectionBiasMelee>1</SpeedSelectionBiasMelee>
+		<SpeedSelectionBiasRanged>1.10000002</SpeedSelectionBiasRanged>
+		<SeparateModes>True</SeparateModes>
+		<LimitModeSingleMelee>RelativeWeight</LimitModeSingleMelee>
+		<LimitModeAmountMelee>Slots</LimitModeAmountMelee>
+		<LimitModeSingleRanged>RelativeWeight</LimitModeSingleRanged>
+		<LimitModeAmountRanged>Slots</LimitModeAmountRanged>
+		<LimitModeAmountTotal>Slots</LimitModeAmountTotal>
+		<LimitModeSingle_AbsoluteMass>1.89999998</LimitModeSingle_AbsoluteMass>
+		<LimitModeSingle_RelativeMass>0.0542857125</LimitModeSingle_RelativeMass>
+		<LimitModeAmount_AbsoluteMass>10</LimitModeAmount_AbsoluteMass>
+		<LimitModeAmount_RelativeMass>0.285714298</LimitModeAmount_RelativeMass>
+		<LimitModeSingleMelee_AbsoluteMass>1.89999998</LimitModeSingleMelee_AbsoluteMass>
+		<LimitModeSingleMelee_RelativeMass>0.0542857125</LimitModeSingleMelee_RelativeMass>
+		<LimitModeAmountMelee_AbsoluteMass>10</LimitModeAmountMelee_AbsoluteMass>
+		<LimitModeAmountMelee_RelativeMass>0.285714298</LimitModeAmountMelee_RelativeMass>
+		<LimitModeSingleRanged_AbsoluteMass>2.54999995</LimitModeSingleRanged_AbsoluteMass>
+		<LimitModeSingleRanged_RelativeMass>0.077142857</LimitModeSingleRanged_RelativeMass>
+		<LimitModeAmountRanged_AbsoluteMass>10</LimitModeAmountRanged_AbsoluteMass>
+		<LimitModeAmountRanged_RelativeMass>0.285714298</LimitModeAmountRanged_RelativeMass>
+		<LimitModeAmountTotal_AbsoluteMass>10</LimitModeAmountTotal_AbsoluteMass>
+		<LimitModeAmountTotal_RelativeMass>0.285714298</LimitModeAmountTotal_RelativeMass>
+		<LimitModeAmountTotal_Slots>3</LimitModeAmountTotal_Slots>
+		<LimitModeSingle_Selection_defNames>
+			<li>MeleeWeapon_Gladius</li>
+			<li>MeleeWeapon_Axe</li>
+			<li>MeleeWeapon_Mace</li>
+			<li>MeleeWeapon_BreachAxe</li>
+			<li>MeleeWeapon_Ikwa</li>
+			<li>MeleeWeapon_Knife</li>
+			<li>MeleeWeapon_PsyfocusStaff</li>
+			<li>Weapon_GrenadeEMP</li>
+			<li>Weapon_GrenadeTox</li>
+			<li>Weapon_GrenadeFrag</li>
+			<li>Weapon_GrenadeMolotov</li>
+			<li>Gun_Autopistol</li>
+			<li>Gun_Revolver</li>
+			<li>ElephantTusk</li>
+			<li>Bow_Recurve</li>
+			<li>Flamebow</li>
+			<li>Bow_Short</li>
+			<li>Beer</li>
+			<li>WoodLog</li>
+		</LimitModeSingle_Selection_defNames>
+		<LimitModeSingleMelee_Selection_defNames>
+			<li>MeleeWeapon_Gladius</li>
+			<li>MeleeWeapon_Axe</li>
+			<li>MeleeWeapon_Mace</li>
+			<li>MeleeWeapon_BreachAxe</li>
+			<li>MeleeWeapon_Ikwa</li>
+			<li>MeleeWeapon_Knife</li>
+			<li>MeleeWeapon_PsyfocusStaff</li>
+			<li>ElephantTusk</li>
+			<li>Beer</li>
+			<li>WoodLog</li>
+		</LimitModeSingleMelee_Selection_defNames>
+		<LimitModeSingleRanged_Selection_defNames>
+			<li>Weapon_GrenadeEMP</li>
+			<li>Weapon_GrenadeTox</li>
+			<li>Weapon_GrenadeFrag</li>
+			<li>Weapon_GrenadeMolotov</li>
+			<li>Gun_MachinePistol</li>
+			<li>Gun_Autopistol</li>
+			<li>Gun_Revolver</li>
+			<li>Bow_Recurve</li>
+			<li>Flamebow</li>
+			<li>Bow_Short</li>
+		</LimitModeSingleRanged_Selection_defNames>
+		<LimitModeSingle_Selection />
+		<LimitModeSingleMelee_Selection />
+		<LimitModeSingleRanged_Selection />
+		<SidearmSpawnChance>0.5</SidearmSpawnChance>
+		<SidearmSpawnChanceDropoff>0.25</SidearmSpawnChanceDropoff>
+		<SidearmBudgetMultiplier>0.5</SidearmBudgetMultiplier>
+		<SidearmBudgetDropoff>0.25</SidearmBudgetDropoff>
+		<SkipDangerousWeapons>False</SkipDangerousWeapons>
+		<FumbleRecoveryChance>
+			<li>(0.00, 0.00)</li>
+			<li>(2.00, 0.15)</li>
+			<li>(5.00, 0.85)</li>
+			<li>(7.00, 1.00)</li>
+			<li>(20.00, 1.00)</li>
+		</FumbleRecoveryChance>
+		<ShowAlertsMissingSidearm>False</ShowAlertsMissingSidearm>
+		<PlaySounds>False</PlaySounds>
+	</ModSettings>
+</SettingsBlock>

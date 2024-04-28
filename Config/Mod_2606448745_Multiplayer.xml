@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Multiplayer.Client.MpSettings">
+		<autoAcceptSteam>True</autoAcceptSteam>
+		<sendPingButton>Mouse3</sendPingButton>
+		<jumpToPingButton>Mouse4</jumpToPingButton>
+		<playerColors>
+			<li>
+				<g>125</g>
+				<b>255</b>
+			</li>
+			<li>
+				<r>255</r>
+			</li>
+			<li>
+				<g>255</g>
+				<b>45</b>
+			</li>
+			<li>
+				<r>255</r>
+				<b>150</b>
+			</li>
+			<li>
+				<r>80</r>
+				<g>250</g>
+				<b>250</b>
+			</li>
+			<li>
+				<r>200</r>
+				<g>255</g>
+				<b>75</b>
+			</li>
+			<li>
+				<r>100</r>
+				<b>75</b>
+			</li>
+		</playerColors>
+		<serverSettings>
+			<autosaveInterval>1</autosaveInterval>
+		</serverSettings>
+	</ModSettings>
+</SettingsBlock>
