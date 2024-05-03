@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="LWM.DeepStorage.Settings">
+		<shelfCost>20</shelfCost>
+		<storing_takes_time>False</storing_takes_time>
+		<storing_global_scale>1</storing_global_scale>
+		<robotsCanUse>False</robotsCanUse>
+		<default_s_priority>Preferred</default_s_priority>
+		<useRightClickLogic>False</useRightClickLogic>
+	</ModSettings>
+</SettingsBlock>

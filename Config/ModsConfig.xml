@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.5.4069 rev98</version>
+  <version>1.5.4084 rev696</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
@@ -16,6 +16,7 @@
     <li>cocaine.electricstonecuttingtable</li>
     <li>ubergarm.kanbanstockpile</li>
     <li>dhultgren.keepbedownership</li>
+    <li>lwm.deepstorage</li>
     <li>erdelf.minifyeverything</li>
     <li>haplo.miscellaneous.training</li>
     <li>aardvark.morevisiblepause</li>

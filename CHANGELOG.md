@@ -11,6 +11,8 @@
   https://steamcommunity.com/sharedfiles/filedetails/?id=2290689449
 * add Research Tree (Continued)
   https://steamcommunity.com/sharedfiles/filedetails/?id=3030499331
+* add LWM's Deep Storage
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1617282896
 * update configs to disable tutorial on startup
 
 ## v0.1
