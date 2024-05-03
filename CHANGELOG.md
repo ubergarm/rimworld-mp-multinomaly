@@ -1,3 +1,18 @@
+## v0.2
+* add Electric Stonecutting Table
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1649368867
+* add Stonecutting Extended
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2571676542
+* add [GMT] Trading Spot
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2874517333
+* add Keep Bed Ownership
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2130184293
+* add Seamless Embrasures
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2290689449
+* add Research Tree (Continued)
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3030499331
+* update configs to disable tutorial on startup
+
 ## v0.1
 * add Harmony
   https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077

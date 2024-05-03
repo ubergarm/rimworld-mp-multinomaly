@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="StonecuttingExtended.Settings.StonecuttingSettings">
+		<WorkAmountMultiplier>1</WorkAmountMultiplier>
+		<BulkWorkAmountMultiplier>0.800000012</BulkWorkAmountMultiplier>
+		<SkillLearnFactor>0.25</SkillLearnFactor>
+	</ModSettings>
+</SettingsBlock>
