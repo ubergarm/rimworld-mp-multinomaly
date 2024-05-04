@@ -1,3 +1,9 @@
+## v0.3
+* remove Research Tree (Continued)
+  - nothing was sync'd, lol oops. possibly research pal? for now just use vanilla research.
+* remove LWM's Deep Storage
+  - something is off in 1.5 between deep storage, pickup and haul, and kanbanstockpile. so just vanilla shelves.
+
 ## v0.2
 * add Electric Stonecutting Table
   https://steamcommunity.com/sharedfiles/filedetails/?id=1649368867

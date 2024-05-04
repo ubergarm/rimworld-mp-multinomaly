@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<SettingsBlock>
-	<ModSettings Class="FluffyResearchTree.FluffyResearchTreeSettings">
-		<PauseOnOpen>False</PauseOnOpen>
-		<LoadType>2</LoadType>
-	</ModSettings>
-</SettingsBlock>
