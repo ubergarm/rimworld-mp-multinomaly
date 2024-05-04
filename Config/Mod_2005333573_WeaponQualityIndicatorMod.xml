@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="WeaponQualityIndicators.WeaponQualityIndicatorModSettings">
+		<xDrawSize>1</xDrawSize>
+		<yDrawSize>1</yDrawSize>
+		<renderGraphicIndicator>False</renderGraphicIndicator>
+		<colorAwful>&lt;color=#BABABA&gt;</colorAwful>
+		<colorPoor>&lt;color=#80DC40&gt;</colorPoor>
+		<colorNormal>&lt;color=#8080DC&gt;</colorNormal>
+		<colorGood>&lt;color=#BA58BA&gt;</colorGood>
+		<colorMasterwork>&lt;color=#DC66BA&gt;</colorMasterwork>
+		<colorLegendary>&lt;color=#40DCDC&gt;</colorLegendary>
+	</ModSettings>
+</SettingsBlock>

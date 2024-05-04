@@ -1,8 +1,26 @@
 ## v0.3
 * remove Research Tree (Continued)
-  - nothing was sync'd, lol oops. possibly research pal? for now just use vanilla research.
+  - nothing was sync'd, lol oops. possibly try research pal? for now just use vanilla research.
 * remove LWM's Deep Storage
-  - something is off in 1.5 between deep storage, pickup and haul, and kanbanstockpile. so just vanilla shelves.
+  - something is off in 1.5 between deep storage, pickup and haul, and kanbanstockpile. for now just use vanilla shelves.
+* add Fahrenheit and Celsius
+  https://steamcommunity.com/sharedfiles/filedetails/?id=937759575
+* add Colorblind Minerals
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1424338139
+* add DDI - Deep Drill Indicator
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2566736688
+* add Visible Raid Points
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2562730174
+* add Weapon and Apparel Quality Indicators
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2005333573
+* add Bionic icons
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1677616980
+* add Reasonable Components 1.5
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3223784709
+* add Easy Conversions
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2885902723
+* add Wololoo - Better Conversion and Recruitment
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3108763487
 
 ## v0.2
 * add Electric Stonecutting Table
