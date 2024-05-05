@@ -21,6 +21,8 @@
   https://steamcommunity.com/sharedfiles/filedetails/?id=2885902723
 * add Wololoo - Better Conversion and Recruitment
   https://steamcommunity.com/sharedfiles/filedetails/?id=3108763487
+* add Show Mod Updates
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3218690663
 
 ## v0.2
 * add Electric Stonecutting Table

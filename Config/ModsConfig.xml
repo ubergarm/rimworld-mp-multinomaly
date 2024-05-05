@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.5.4084 rev696</version>
+  <version>1.5.4085 rev548</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
@@ -30,6 +30,7 @@
     <li>uuugggg.replacestuff</li>
     <li>jaxe.rimhud</li>
     <li>neronix17.embrasures</li>
+    <li>mlie.showmodupdates</li>
     <li>petetimessix.simplesidearms</li>
     <li>scherub.stonecuttingextended</li>
     <li>murmur.tcu</li>
