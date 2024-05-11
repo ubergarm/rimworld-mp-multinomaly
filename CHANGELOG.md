@@ -1,3 +1,11 @@
+## v0.4
+* add Power Tab 2 (i know it says 1.4, but it works fine lol)
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2952716728
+* add Slave Rebellions Improved: Gutted 1.5 (i just made this gutted continuation lol)
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3244523638
+* add Foot Traffic Heatmap
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3240217316
+
 ## v0.3
 * remove Research Tree (Continued)
   - nothing was sync'd, lol oops. possibly try research pal? for now just use vanilla research.
