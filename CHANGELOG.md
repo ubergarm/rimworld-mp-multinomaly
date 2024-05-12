@@ -17,8 +17,12 @@
   https://steamcommunity.com/sharedfiles/filedetails/?id=2879753009
 * add DragSelect
   https://steamcommunity.com/sharedfiles/filedetails/?id=2599942235
+* add Death Rattle Continued [1.2+]
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2896207870
 * add [1.5; 1.4] RimFridge: Now with Shelves!
   https://steamcommunity.com/sharedfiles/filedetails/?id=2898411376
+* add [FSF] No Default Shelf Storage (must load after rimfridge)
+  https://steamcommunity.com/sharedfiles/filedetails/?id=945085502
 * reconfigure Trait Rarity Colors and Weapon Quality to have matching colors
 
 ## v0.4
