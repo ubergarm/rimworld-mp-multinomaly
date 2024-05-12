@@ -15,6 +15,10 @@
   https://steamcommunity.com/sharedfiles/filedetails/?id=2102438871
 * add [LC] Consolidated Traits
   https://steamcommunity.com/sharedfiles/filedetails/?id=2879753009
+* add DragSelect
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2599942235
+* add [1.5; 1.4] RimFridge: Now with Shelves!
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2898411376
 * reconfigure Trait Rarity Colors and Weapon Quality to have matching colors
 
 ## v0.4
