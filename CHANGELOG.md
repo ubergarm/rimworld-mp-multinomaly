@@ -1,3 +1,22 @@
+## v0.5
+* add Compact Hediffs
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2031734067
+* add Ugh You Got Me
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1542424705
+* add Snap Out!
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1319782555
+* add Dubs Break Mod
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1722398508
+* add Trait and Backstory Icons
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2873494547
+* add Trait Rarity Colors
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1751884355
+* add Synergistic Traits
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2102438871
+* add [LC] Consolidated Traits
+  https://steamcommunity.com/sharedfiles/filedetails/?id=2879753009
+* reconfigure Trait Rarity Colors and Weapon Quality to have matching colors
+
 ## v0.4
 * add Power Tab 2 (i know it says 1.4, but it works fine lol)
   https://steamcommunity.com/sharedfiles/filedetails/?id=2952716728

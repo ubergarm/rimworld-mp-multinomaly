@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TraitRarityColors.TraitRarityColorsModSettings">
+		<traitsToIgnore />
+		<traitTiers>
+			<keys />
+			<values />
+		</traitTiers>
+		<maxLimitMystic>0.100000001</maxLimitMystic>
+		<maxLimitLegendary>0.5</maxLimitLegendary>
+		<maxLimitEpic>0.900000036</maxLimitEpic>
+		<maxLimitRare>1.89999998</maxLimitRare>
+		<maxLimitUncommon>2</maxLimitUncommon>
+		<colorMystic>&lt;color=#E6CC80&gt;</colorMystic>
+		<colorLegendary>&lt;color=#FF8000&gt;</colorLegendary>
+		<colorEpic>&lt;color=#A335EE&gt;</colorEpic>
+		<colorRare>&lt;color=#0070FF&gt;</colorRare>
+		<colorUncommon>&lt;color=#1EFF0C&gt;</colorUncommon>
+	</ModSettings>
+</SettingsBlock>
