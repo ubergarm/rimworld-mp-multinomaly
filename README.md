@@ -11,7 +11,7 @@ RimWorld 1.5 MultiNomaly Modpack
 Just starting off a fresh modpack for 1.5 Anomaly. The strategy this time is to begin with a minimal set of mods and slowly add a few as we play. Hopefully this will minimize desyncs as previous attempts to whittle down 100+ mods often was too much.
 
 #### Versions
-* Modpack Version: (see releases/tags)
+* Modpack Version: (see latest releases/tags)
 * RimWorld Version: v1.5
 
 #### DLCs:

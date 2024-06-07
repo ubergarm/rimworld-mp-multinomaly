@@ -1,3 +1,9 @@
+## v0.6
+* add RimLog
+  https://steamcommunity.com/sharedfiles/filedetails/?id=3263020460
+* add Interaction Bubbles
+  https://steamcommunity.com/sharedfiles/filedetails/?id=1516158345
+
 ## v0.5
 * add Compact Hediffs
   https://steamcommunity.com/sharedfiles/filedetails/?id=2031734067

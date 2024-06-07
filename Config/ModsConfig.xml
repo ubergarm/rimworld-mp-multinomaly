@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModsConfigData>
-  <version>1.5.4085 rev548</version>
+  <version>1.5.4104 rev438</version>
   <activeMods>
     <li>brrainz.harmony</li>
     <li>ludeon.rimworld</li>
@@ -25,6 +25,7 @@
     <li>cocaine.electricstonecuttingtable</li>
     <li>kosaro.fahrenheitandcelsius</li>
     <li>missionz3r0.foottrafficheatmap</li>
+    <li>jaxe.bubbles</li>
     <li>ubergarm.kanbanstockpile</li>
     <li>dhultgren.keepbedownership</li>
     <li>erdelf.minifyeverything</li>
@@ -38,6 +39,7 @@
     <li>rimfridge.kv.rw</li>
     <li>frozensnowfox.nodefaultshelfstorage</li>
     <li>jaxe.rimhud</li>
+    <li>ubergarm.rimlog</li>
     <li>neronix17.embrasures</li>
     <li>mlie.showmodupdates</li>
     <li>petetimessix.simplesidearms</li>
